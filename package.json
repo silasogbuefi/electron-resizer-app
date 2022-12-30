@@ -1,0 +1,16 @@
+{
+  "name": "electron-resizer-app",
+  "version": "1.0.0",
+  "description": "desktop app to resize images dimensions",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "silas ogbuefi",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^22.0.0",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
